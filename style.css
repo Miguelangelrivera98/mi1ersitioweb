@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #333; /* Fondo gris oscuro */
+    color: #fff; /* Texto blanco para mayor contraste */
+}
+
+header {
+    background-color: #fff; /* Fondo blanco para el título */
+    color: #000; /* Texto negro para el título */
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+
+video {
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #444; /* Fondo gris ligeramente más claro para el pie de página */
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff; /* Texto blanco */
+}
+
+a {
+    color: #ffcc00; /* Color de enlace dorado */
+}
